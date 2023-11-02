@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: 0xdded
 description: Cyber Security Blog
+plugins:
+  - jemoji 
